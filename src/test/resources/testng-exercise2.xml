@@ -4,8 +4,8 @@
         <parameter name="browser" value="chrome"/>
         <classes><class name="exercise2"/></classes>
     </test>
-    <test name="EdgeTest">
-        <parameter name="browser" value="edge"/>
+    <test name="firefoxTest">
+        <parameter name="browser" value="firefox"/>
         <classes><class name="exercise2"/></classes>
     </test>
 </suite>
